@@ -1,0 +1,156 @@
+[24-Feb-2024 14:23:49 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/platform_check.php on line 24
+[24-Feb-2024 14:29:02 America/New_York] PHP Warning:  require(/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php): Failed to open stream: No such file or directory in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:29:02 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/viviaprj/services-app.octopus-ar.com/vendor/autoload.php(25): ComposerAutoloaderInit93eed57a167ab1c7d7c8291a660a2fff::getLoader()
+#2 /home/viviaprj/services-app.octopus-ar.com/public/index.php(34): require('/home/viviaprj/...')
+#3 {main}
+  thrown in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:30:12 America/New_York] PHP Warning:  require(/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php): Failed to open stream: No such file or directory in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:30:12 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/viviaprj/services-app.octopus-ar.com/vendor/autoload.php(25): ComposerAutoloaderInit93eed57a167ab1c7d7c8291a660a2fff::getLoader()
+#2 /home/viviaprj/services-app.octopus-ar.com/public/index.php(34): require('/home/viviaprj/...')
+#3 {main}
+  thrown in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:31:41 America/New_York] PHP Warning:  require(/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php): Failed to open stream: No such file or directory in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:31:41 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/viviaprj/services-app.octopus-ar.com/vendor/autoload.php(25): ComposerAutoloaderInit93eed57a167ab1c7d7c8291a660a2fff::getLoader()
+#2 /home/viviaprj/services-app.octopus-ar.com/public/index.php(34): require('/home/viviaprj/...')
+#3 {main}
+  thrown in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:31:58 America/New_York] PHP Warning:  require(/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php): Failed to open stream: No such file or directory in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:31:58 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/viviaprj/services-app.octopus-ar.com/vendor/autoload.php(25): ComposerAutoloaderInit93eed57a167ab1c7d7c8291a660a2fff::getLoader()
+#2 /home/viviaprj/services-app.octopus-ar.com/public/index.php(34): require('/home/viviaprj/...')
+#3 {main}
+  thrown in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:32:30 America/New_York] PHP Warning:  require(/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php): Failed to open stream: No such file or directory in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:32:30 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/viviaprj/services-app.octopus-ar.com/vendor/autoload.php(25): ComposerAutoloaderInit93eed57a167ab1c7d7c8291a660a2fff::getLoader()
+#2 /home/viviaprj/services-app.octopus-ar.com/public/index.php(34): require('/home/viviaprj/...')
+#3 {main}
+  thrown in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:33:02 America/New_York] PHP Warning:  require(/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php): Failed to open stream: No such file or directory in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:33:02 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/viviaprj/services-app.octopus-ar.com/vendor/autoload.php(25): ComposerAutoloaderInit93eed57a167ab1c7d7c8291a660a2fff::getLoader()
+#2 /home/viviaprj/services-app.octopus-ar.com/public/index.php(34): require('/home/viviaprj/...')
+#3 {main}
+  thrown in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:33:05 America/New_York] PHP Warning:  require(/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php): Failed to open stream: No such file or directory in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:33:05 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/viviaprj/services-app.octopus-ar.com/vendor/autoload.php(25): ComposerAutoloaderInit93eed57a167ab1c7d7c8291a660a2fff::getLoader()
+#2 /home/viviaprj/services-app.octopus-ar.com/public/index.php(34): require('/home/viviaprj/...')
+#3 {main}
+  thrown in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:34:35 America/New_York] PHP Warning:  require(/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php): Failed to open stream: No such file or directory in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:34:35 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/viviaprj/services-app.octopus-ar.com/vendor/autoload.php(25): ComposerAutoloaderInit93eed57a167ab1c7d7c8291a660a2fff::getLoader()
+#2 /home/viviaprj/services-app.octopus-ar.com/public/index.php(34): require('/home/viviaprj/...')
+#3 {main}
+  thrown in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:39:34 America/New_York] PHP Warning:  require(/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php): Failed to open stream: No such file or directory in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:39:34 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/viviaprj/services-app.octopus-ar.com/vendor/autoload.php(25): ComposerAutoloaderInit93eed57a167ab1c7d7c8291a660a2fff::getLoader()
+#2 /home/viviaprj/services-app.octopus-ar.com/public/index.php(34): require('/home/viviaprj/...')
+#3 {main}
+  thrown in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:43:17 America/New_York] PHP Warning:  require(/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php): Failed to open stream: No such file or directory in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:43:17 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/viviaprj/services-app.octopus-ar.com/vendor/autoload.php(25): ComposerAutoloaderInit93eed57a167ab1c7d7c8291a660a2fff::getLoader()
+#2 /home/viviaprj/services-app.octopus-ar.com/public/index.php(34): require('/home/viviaprj/...')
+#3 {main}
+  thrown in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:43:21 America/New_York] PHP Warning:  require(/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php): Failed to open stream: No such file or directory in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:43:21 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/viviaprj/services-app.octopus-ar.com/vendor/autoload.php(25): ComposerAutoloaderInit93eed57a167ab1c7d7c8291a660a2fff::getLoader()
+#2 /home/viviaprj/services-app.octopus-ar.com/public/index.php(34): require('/home/viviaprj/...')
+#3 {main}
+  thrown in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:43:22 America/New_York] PHP Warning:  require(/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php): Failed to open stream: No such file or directory in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:43:22 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/viviaprj/services-app.octopus-ar.com/vendor/autoload.php(25): ComposerAutoloaderInit93eed57a167ab1c7d7c8291a660a2fff::getLoader()
+#2 /home/viviaprj/services-app.octopus-ar.com/public/index.php(34): require('/home/viviaprj/...')
+#3 {main}
+  thrown in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:43:42 America/New_York] PHP Warning:  require(/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php): Failed to open stream: No such file or directory in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:43:42 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/viviaprj/services-app.octopus-ar.com/vendor/autoload.php(25): ComposerAutoloaderInit93eed57a167ab1c7d7c8291a660a2fff::getLoader()
+#2 /home/viviaprj/services-app.octopus-ar.com/public/index.php(34): require('/home/viviaprj/...')
+#3 {main}
+  thrown in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 15:13:38 America/New_York] PHP Warning:  require(/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php): Failed to open stream: No such file or directory in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 15:13:38 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/viviaprj/services-app.octopus-ar.com/vendor/autoload.php(25): ComposerAutoloaderInit93eed57a167ab1c7d7c8291a660a2fff::getLoader()
+#2 /home/viviaprj/services-app.octopus-ar.com/public/index.php(34): require('/home/viviaprj/...')
+#3 {main}
+  thrown in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 15:14:10 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/platform_check.php on line 24
+[24-Feb-2024 15:14:19 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/platform_check.php on line 24
+[24-Feb-2024 15:14:43 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/platform_check.php on line 24
+[25-Feb-2024 07:13:48 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:13:54 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:13:57 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:14:02 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:14:02 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:14:03 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:14:34 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:14:36 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:14:39 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:14:39 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:14:54 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:14:55 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:14:56 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:15:29 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:15:32 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:16:41 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:17:12 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:17:15 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:17:23 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:17:32 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:17:35 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:20:26 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:20:29 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:20:38 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:20:40 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:20:54 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:20:55 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:20:55 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:20:55 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:28:25 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:35:22 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:35:24 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:35:24 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:36:24 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:36:27 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:37:08 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:37:11 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:39:08 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:39:09 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774
+[25-Feb-2024 07:39:10 America/New_York] PHP Parse error:  syntax error, unexpected token ")" in /home/viviaprj/services-app.octopus-ar.com/vendor/symfony/http-foundation/Request.php on line 774

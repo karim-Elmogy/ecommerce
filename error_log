@@ -1,0 +1,16 @@
+[24-Feb-2024 14:30:08 America/New_York] PHP Warning:  require(/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php): Failed to open stream: No such file or directory in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:30:08 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/viviaprj/services-app.octopus-ar.com/vendor/autoload.php(25): ComposerAutoloaderInit93eed57a167ab1c7d7c8291a660a2fff::getLoader()
+#2 /home/viviaprj/services-app.octopus-ar.com/artisan(18): require('/home/viviaprj/...')
+#3 {main}
+  thrown in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:34:26 America/New_York] PHP Warning:  require(/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php): Failed to open stream: No such file or directory in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
+[24-Feb-2024 14:34:26 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/viviaprj/services-app.octopus-ar.com/vendor/composer/../../app/helpers/helpers.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/viviaprj/services-app.octopus-ar.com/vendor/autoload.php(25): ComposerAutoloaderInit93eed57a167ab1c7d7c8291a660a2fff::getLoader()
+#2 /home/viviaprj/services-app.octopus-ar.com/artisan(18): require('/home/viviaprj/...')
+#3 {main}
+  thrown in /home/viviaprj/services-app.octopus-ar.com/vendor/composer/autoload_real.php on line 41
